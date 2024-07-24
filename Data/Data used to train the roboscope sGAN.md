@@ -13,8 +13,8 @@ License: [CeCILL v2.1, see file Licence_CeCILL_V2.1-en.txt](../LICENSE.txt).
 ## Balanced Zeiss Dataset
 The dataset is split into four subsets (folders) featuring about the same amount of data. This organisation is needed to perform cross-validation of the training as described in the supplementary text. Within these folders, one can find subfolders with cell vignettes. Each subfolder corresponds to a class (mitosis phases mostly), namely:
 
-* **I**nterphase
-* **P**rometaphase
+*  **I**nterphase
+*  **P**rometaphase
 *  **P**ro**M**etaphase
 *  **M**etaphase
 *  **A**naphase
