@@ -1,4 +1,11 @@
 
+# Code associated with article "The Roboscope: Smart and Fast Microscopy for Generic Event-Driven Acquisition" by J. Bonnet et al. 2024
+# Code author: Célia Martin
+# Code creation date: 2024
+# Inscoper, SAS, France
+# CNRS, Univ Rennes, IGDR (Institut de Génétique et Développement de Rennes) – UMR 6290, Rennes, France
+# License: [CeCILL v2.1, see file Licence_CeCILL_V2.1-en.txt](../LICENSE.txt)
+
 from libs.pascal_voc_io import PascalVocReader
 import cv2
 import numpy as np
